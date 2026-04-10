@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="carmel">
+    <output-path>$PROJECT_DIR$/out/artifacts/carmel</output-path>
+    <root id="archive" name="carmel.jar" />
+  </artifact>
+</component>

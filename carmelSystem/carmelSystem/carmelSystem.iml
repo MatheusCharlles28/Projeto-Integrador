@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/carmelSystem" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/${project.build.directory}" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/.mvn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/carmelSystem/src/main/resources" isTestSource="false" />
+    </content>
+  </component>
+</module>
